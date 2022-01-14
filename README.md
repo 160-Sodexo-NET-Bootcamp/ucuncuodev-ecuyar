@@ -1,6 +1,6 @@
 # Trash Management System API (updated) ⚡
 
-This project is third homework that made for Sodexo .NET Bootcamp. Also update of the [second homework.](https://github.com/160-Sodexo-NET-Bootcamp/ikinci-hafta-odevi-ecuyar)
+This project is third homework that made for Sodexo .NET Bootcamp and also an update of the [second homework.](https://github.com/160-Sodexo-NET-Bootcamp/ikinci-hafta-odevi-ecuyar)
 
 You can check the project's scope from the link.
 
